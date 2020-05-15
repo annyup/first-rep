@@ -11,4 +11,5 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 h1 {
     text-align: center;
     color: red;
+    background-color: pink;
 }
